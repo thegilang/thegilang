@@ -4,10 +4,12 @@
 <br>
   <h1>HAKARANAI <h1>
 
-<p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=thegilang&show_icons=true&theme=tokyonight"></a></p>
-<p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegilang&theme=tokyonight&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/thegilang"><img src="https://github-readme-stats.vercel.app/api?username=thegilang&show_icons=true&theme=tokyonight"></a></p>
+<p align="center"><a href="https://github.com/thegilang"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegilang&theme=tokyonight&layout=compact"></a></p>
 <!---
 thegilang/thegilang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 </div>
+
+   
